@@ -1,4 +1,4 @@
-
+import './App.css';
 import 'react-toastify/dist/ReactToastify.css';
 import Login from './paginas/login/Login';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
@@ -49,4 +49,4 @@ function App() {
   );
 }
 
-export default App;
+export default App;
